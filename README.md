@@ -19,6 +19,10 @@ Renova Token (RENO) is the token of choice for the **Renova Crowdfunding Platfor
 - **Sustainable Impact**: Focus on renovation projects that support environmental sustainability and community well-being.
 - **Region**: DACH (Germany, Austria, Switzerland)
 
+## Project Timeline
+
+For a detailed timeline and roadmap of the Renova Token implementation, check [PROJECT_TIMELINE.md](docs/PROJECT_TIMELINE.md).
+
 ## Getting Started
 
 ### Prerequisites
@@ -26,36 +30,6 @@ Renova Token (RENO) is the token of choice for the **Renova Crowdfunding Platfor
 - [Node.js](https://nodejs.org/)
 - Solana CLI tools: Follow instructions [here](https://docs.solana.com/cli/install-solana-cli-tools).
 - A Solana wallet (e.g., [Phantom Wallet](https://phantom.app/))
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/renova-coin.git
-   cd renova-coin
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-### Deployment
-
-To deploy the RenovaCoin token on the Solana blockchain, run the following script:
-
-```bash
-node scripts/deploy.js
-```
-
-### Interacting with RenovaCoin
-
-You can interact with the deployed contract using the `interact.js` script:
-
-```bash
-node scripts/interact.js
-```
 
 ### Token Metadata
 
