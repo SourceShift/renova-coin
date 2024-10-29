@@ -1,0 +1,41 @@
+{
+  "name": "Renova Token",
+  "symbol": "RENO",
+  "uri": "https://github.com/SourceShift/renova-token/blob/main/logo/reno-logo.webp",
+  "seller_fee_basis_points": 250,
+  "creators": [
+    {
+      "address": "Hj4JMEB6tzVSm2EGRjeMQM1QeTM2fdJAPfmLXmQkYGdA",
+      "verified": true,
+      "share": 100
+    }
+  ],
+  "description": "Renova Token (RENO) is the token for the Renova Crowdfunding Platform, empowering community-driven renovation projects. RENO allows supporters to fund initiatives that enhance public spaces, preserve cultural heritage, and promote sustainability in the DACH region.",
+  "attributes": [
+    {
+      "trait_type": "Sector",
+      "value": "Community Renovation"
+    },
+    {
+      "trait_type": "Utility",
+      "value": "Crowdfunding"
+    },
+    {
+      "trait_type": "Region",
+      "value": "DACH (Germany, Austria, Switzerland)"
+    },
+    {
+      "trait_type": "Sustainability Focus",
+      "value": "Yes"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/SourceShift/renova-token/blob/main/logo/reno-logo.webp",
+        "type": "image/webp"
+      }
+    ],
+    "category": "token"
+  }
+}

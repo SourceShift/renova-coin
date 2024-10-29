@@ -2,7 +2,7 @@
 
 ![RenovaCoin Logo](https://github.com/SourceShift/renova-coin/blob/main/logo/reno-logo.webp)
 
-RenovaCoin (RENO) is the token of choice for the Renova Marketplace, a revolutionary platform focused on eco-friendly home renovation. RENO provides homeowners, contractors, and suppliers with a seamless way to transact, earn rewards, and access environmentally sustainable renovation options.
+Renova Token (RENO) is the token of choice for the **Renova Crowdfunding Platform**, a decentralized system designed to fund community renovation projects in the DACH region. RENO enables communities, supporters, and local stakeholders to contribute to meaningful projects that enhance public spaces, preserve heritage, and promote sustainability.
 
 ## Token Details
 
@@ -14,9 +14,10 @@ RenovaCoin (RENO) is the token of choice for the Renova Marketplace, a revolutio
 
 ## Features
 
-- **Marketplace Rewards**: Users can earn RENO as rewards for eco-friendly purchases and loyalty.
-- **Eco-Friendly Focus**: Promotes environmentally sustainable renovation practices.
-- **Sector**: Home Renovation.
+- **Community Crowdfunding**: Supporters can contribute to projects using RENO, directly impacting local renovations.
+- **Transparent Funding**: Blockchain-powered transparency ensures all contributions are secure and traceable.
+- **Sustainable Impact**: Focus on renovation projects that support environmental sustainability and community well-being.
+- **Region**: DACH (Germany, Austria, Switzerland)
 
 ## Getting Started
 
@@ -55,6 +56,10 @@ You can interact with the deployed contract using the `interact.js` script:
 ```bash
 node scripts/interact.js
 ```
+
+### Token Metadata
+
+The file `renovacoin-metadata.json` contains all relevant metadata for RenovaCoin, including token attributes, properties, and descriptions. This metadata can be used for minting, metadata updates, and integration with other services.
 
 ## License
 
